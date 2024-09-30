@@ -21,7 +21,7 @@ The goal of this project is to develop a classification model for the cellular p
 - The performance of each model was evaluated using accuracy as the primary metric.
 - The final model's accuracy was validated using the test dataset to ensure it met the required threshold of 0.75.
 
-**Results Analysis and Validation:**
+**4. Results Analysis and Validation:**
 
 - Each model's best-performing hyperparameters were identified, and their accuracy scores were recorded.
 - A conclusive model was selected based on its performance on unseen test data, achieving optimal accuracy.
