@@ -8,6 +8,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Project Objective
 
@@ -74,5 +75,22 @@ The goal of this project is to develop a classification model for the cellular p
 - **Model Selection and Hyperparameter Tuning**: Gained experience in selecting appropriate machine learning models and tuning their parameters to achieve the best accuracy.
 - **Model Evaluation**: Developed the ability to evaluate and validate models using metrics like accuracy and understand their trade-offs.
 - **Technical Proficiency**: Improved proficiency with pandas, scikit-learn, and model selection techniques, allowing for a deeper understanding of the behavior of different classification algorithms.
+
+[back to top](#megaline-plan-transition-recommendation)
+
+## How to Use This Repository
+
+1. **Clone the Repository**  
+   Clone the repository to your local environment: <br>
+git clone [https://github.com/realdanizilla/Megaline-Classification.git](https://github.com/realdanizilla/Megaline-Classification.git)
+
+2. **Review Jupyter Notebooks**  
+Open the notebooks to understand the data preprocessing, model training, and performance evaluation steps.
+
+3. **Run Notebooks for Model Training**  
+Execute cells to preprocess the data, split datasets, and build machine learning models.
+
+4. **Evaluate Model Performance**  
+Check model accuracy on training and test sets to understand customer plan preferences.
 
 [back to top](#megaline-plan-transition-recommendation)
