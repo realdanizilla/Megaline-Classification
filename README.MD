@@ -1,6 +1,19 @@
+# Megaline Plan Transition Recommendation
+
+## Table of Contents
+- [Megaline Plan Transition Recommendation](#megaline-plan-transition-recommendation)
+  - [Table of Contents](#table-of-contents)
+  - [Project Objective](#project-objective)
+  - [Project Structure and Steps](#project-structure-and-steps)
+  - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
+  - [Specific Results and Outcomes](#specific-results-and-outcomes)
+  - [What I Have Learned from This Project](#what-i-have-learned-from-this-project)
+
 ## Project Objective
 
 The goal of this project is to develop a classification model for the cellular provider Megaline, which aims to analyze customer behavior and recommend one of the two new plans: Smart or Ultra. Megaline wants to encourage its customers to transition to these newer plans and improve customer satisfaction while optimizing its revenue streams.
+
+[back to top](#megaline-plan-transition-recommendation)
 
 ## Project Structure and Steps
 
@@ -26,6 +39,7 @@ The goal of this project is to develop a classification model for the cellular p
 - Each model's best-performing hyperparameters were identified, and their accuracy scores were recorded.
 - A conclusive model was selected based on its performance on unseen test data, achieving optimal accuracy.
 
+[back to top](#megaline-plan-transition-recommendation)
 
 ## Tools and Techniques Utilized
 
@@ -43,6 +57,7 @@ The goal of this project is to develop a classification model for the cellular p
 
 - Accuracy score for evaluating model performance on validation and test datasets.
 
+[back to top](#megaline-plan-transition-recommendation)
 
 ## Specific Results and Outcomes
 
@@ -51,9 +66,13 @@ The goal of this project is to develop a classification model for the cellular p
 - The **Logistic Regression Model** encountered convergence issues but was successfully tuned for accuracy.
 - The final model selection achieved an accuracy exceeding the 0.75 threshold, validating the model's effectiveness in classifying customers into the Smart or Ultra plans accurately.
 
-## What I Have Learned from This Project (Skills and Competencies)
+[back to top](#megaline-plan-transition-recommendation)
+
+## What I Have Learned from This Project
 
 - **Data Preprocessing and Handling**: Learned to clean and prepare large datasets, ensuring appropriate data types and handling missing values effectively.
 - **Model Selection and Hyperparameter Tuning**: Gained experience in selecting appropriate machine learning models and tuning their parameters to achieve the best accuracy.
 - **Model Evaluation**: Developed the ability to evaluate and validate models using metrics like accuracy and understand their trade-offs.
 - **Technical Proficiency**: Improved proficiency with pandas, scikit-learn, and model selection techniques, allowing for a deeper understanding of the behavior of different classification algorithms.
+
+[back to top](#megaline-plan-transition-recommendation)
